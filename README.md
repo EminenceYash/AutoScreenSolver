@@ -37,12 +37,12 @@ Built in ~20 lines of code, but does something genuinely useful.
 
 ```mermaid
 graph TD
-A[Select Screen Area (only one time) ] --> B[Capture Image (Fully Automated)]
-B --> C[Send to Gemini API (Automated)]
+A[Auto Selects Screen Area ] --> B[Auto Captures Image]
+B --> C[AUto Send to Gemini/Other APIs ]
 C --> D[AI Processes Question]
 D --> E[Returns Answer]
-E --> F[Displays Output]
-F --> A (with one line logic)
+E --> F[Displays Output With One Line Logic]
+F --> A
 ```
 
 ---
