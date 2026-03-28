@@ -38,7 +38,7 @@ Built in ~20 lines of code, but does something genuinely useful.
 ```mermaid
 graph TD
 A[Auto Selects Screen Area ] --> B[Auto Captures Image]
-B --> C[AUto Send to Gemini/Other APIs ]
+B --> C[Auto Send to Gemini/Other APIs ]
 C --> D[AI Processes Question]
 D --> E[Returns Answer]
 E --> F[Displays Output With One Line Logic]
