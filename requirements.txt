@@ -1,0 +1,5 @@
+Use the latest version of python,
+Tested on 3.10 +
+These are the modules you need do.
+
+"pip install -U google-genai Pillow"
