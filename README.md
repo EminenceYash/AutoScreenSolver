@@ -51,14 +51,14 @@ F --> A
 
 * Python
 * Google Gemini API
-* Screen Capture Libraries (PIL / MSS etc.)
+* Screen Capture Libraries (PIL)
 
 ---
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/AutoScreenSolver.git
+git clone https://github.com/EminenceYash/AutoScreenSolver.git
 cd AutoScreenSolver
 pip install -r requirements.txt
 ```
